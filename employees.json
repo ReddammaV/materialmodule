@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "fullName": "Reddy",
+      "email": "reddy@gmail.com",
+      "mobile": "9566042245",
+      "city": "Chennai"
+    },
+    {
+      "id": 2,
+      "fullName": "Aruna",
+      "email": "aruna@gmail.com",
+      "mobile": "9052850147",
+      "city": "Tirupati"
+    },
+    {
+      "id": 31,
+      "fullName": "Mohan",
+      "email": "mohan@gmail.com",
+      "mobile": "8886187740",
+      "city": "Kadapa"
+    },
+    {
+      "fullName": "Reddamma",
+      "email": "velasirireddamma@gmail.com",
+      "mobile": "8652369541",
+      "city": "Banglore",
+      "id": 32
+    },
+    {
+      "fullName": "hhReddy",
+      "email": "css@gmail.com",
+      "mobile": "7569412368",
+      "city": "Tirupati",
+      "id": 34
+    },
+    {
+      "fullName": "ArunaMohan",
+      "email": "arunamohan@gmail.com",
+      "mobile": "9632587415",
+      "city": "Banglore",
+      "id": 35
+    },
+    {
+      "fullName": "dfgdfg",
+      "email": "velasirireddamma@gmail.com",
+      "mobile": "8652369541",
+      "city": "Banglore",
+      "id": 36
+    }
+  ]
+}
